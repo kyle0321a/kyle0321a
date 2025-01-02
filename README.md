@@ -5,35 +5,85 @@
 
 ---
 
-![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Junu's+Profile)
+![Profile Image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/426f07a2-21b3-4b25-be2a-bc028850cf01/%E1%84%8C%E1%85%AE%E1%86%AB2.png)
 
 ---
 
+### "I believe I have a good objective understanding of myself.  
+I excel at planning and executing tasks, solving problems, and constantly thinking about improving efficiency."
+
 </div>
 
-## 🛠 Tech Stack
+---
 
-### **Main Skills**
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</div>
+## 🧑‍💻 About Me
 
-### **Familiar With**
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</div>
+- **Birth**: February 20, 1989  
+- **Education**:
+  - Currently studying Computer Science at Korea National Open University (2024.03 ~ )  
+  - Graduated from Songwon University, Hotel Culinary Arts (2011.03 ~ 2013.02)  
 
 ---
 
 ## 📬 Contact Me
-- **Email**: [menstua@naver.com](mailto:menstua@naver.com)
+
+- **Email**: [menstua@naver.com](mailto:menstua@naver.com)  
 - **Phone**: 010-6491-6909  
+
+---
+
+## 🛠 Tech Stack
+
+### **Programming Languages**
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</div>
+
+### **Frameworks & Libraries**
+<div>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring-data-jpa&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=oauth&logoColor=white" />
+</div>
+
+### **Back-End Technologies**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" />
+</div>
+
+### **Databases**
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+</div>
+
+### **Web Servers & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</div>
 
 ---
 
@@ -47,14 +97,8 @@
 
 ---
 
-## ✍ Blog & Portfolio
-- [📚 Navis Blog](https://navis.tistory.com/)  
-- [💼 GitHub Portfolio](https://github.com/junu3148)
-
----
-
 <div align="center">
 
-### "효율을 높이고 개선하려고 끊임없이 생각합니다."
+### "Don't delay customizing your GitHub profile. Let's do it in just 5 minutes!"
 
 </div>
