@@ -24,30 +24,6 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 <br>
 
-## About Me
-
-**Birth**: February 20, 1989  
-**Education**:  
-- Currently studying Computer Science at Korea National Open University (2024.03 ~ )  
-- Graduated from Songwon University, Hotel Culinary Arts (2011.03 ~ 2013.02)  
-
-<br>
-
----
-
-<br>
-
-## Contact Me
-
-**Email**: [menstua@naver.com](mailto:menstua@naver.com)  
-**Phone**: 010-6491-6909  
-
-<br>
-
----
-
-<br>
-
 ## Tech Stack
 
 ### **Programming Languages**
@@ -119,3 +95,23 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 <br>
 
 ---
+## About Me
+
+**Birth**: February 20, 1989  
+**Education**:  
+- Currently studying Computer Science at Korea National Open University (2024.03 ~ )  
+- Graduated from Songwon University, Hotel Culinary Arts (2011.03 ~ 2013.02)  
+
+<br>
+
+---
+
+<br>
+
+## Contact Me
+
+**Email**: [menstua@naver.com](mailto:menstua@naver.com)  
+**Phone**: 010-6491-6909  
+
+<br>
+
