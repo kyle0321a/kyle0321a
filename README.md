@@ -3,18 +3,18 @@
 </p>
 
 <div align="center">
+    
 ### **Back-End Developer**
+
 ---
 
-![kyle](https://github.com/user-attachments/assets/7f6117e8-f560-4f76-9a78-c55616f53369)
-
+<img src="https://github.com/user-attachments/assets/7f6117e8-f560-4f76-9a78-c55616f53369" alt="kyle" />
 
 ---
 
 ### "I believe I have a good objective understanding of myself.  
 I excel at planning and executing tasks, solving problems, and constantly thinking about improving efficiency."
-<br>
-<br>
+
 <br>
 </div>
 
@@ -26,16 +26,14 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 - **Education**:
   - Currently studying Computer Science at Korea National Open University (2024.03 ~ )  
   - Graduated from Songwon University, Hotel Culinary Arts (2011.03 ~ 2013.02)  
-<br>
-<br>
+
 ---
 
 ## Contact Me
 
 - **Email**: [menstua@naver.com](mailto:menstua@naver.com)  
 - **Phone**: 010-6491-6909  
-<br>
-<br>
+
 ---
 
 ## Tech Stack
@@ -95,6 +93,5 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 - [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://navis.tistory.com/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.kyleportfolio.site/)
 - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Kyle-Ntion-d32471fa51c540cbafb30cc8824c0129)
-
 
 ---
