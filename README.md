@@ -1,6 +1,10 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yang%20Junu&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=62"/>
+</p>
+
 <div align="center">
 
-# Welcome to Yang Junu's GitHub Profile  
+  # Welcome to Yang Junu's GitHub Profile  
 ### **Back-End Developer**
 
 ---
@@ -90,15 +94,5 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 - [Navis Blog](https://navis.tistory.com/)
 - [KylePortfolio](https://www.kyleportfolio.site/)  
 - [Notion](https://www.notion.so/Kyle-Ntion-d32471fa51c540cbafb30cc8824c0129)
-
----
-
-## GitHub Stats
-<div align="center">
-
-![Junu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junu3148&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junu3148&layout=compact&theme=radical)
-
-</div>
 
 ---
