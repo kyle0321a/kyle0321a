@@ -1,60 +1,60 @@
-# Yang Junu 👨‍💻  
-**Back-end Developer**
+<div align="center">
+
+# 👋 Welcome to Yang Junu's GitHub Profile  
+### **Back-End Developer**
 
 ---
 
-## About Me
-
-- 저를 객관적으로 잘 파악하고 있다고 생각합니다.
-- 계획을 세우고 추진하는 능력이 뛰어납니다.
-- 문제 해결과 응용력이 뛰어납니다.
-- 효율을 높이고 개선하려고 끊임없이 생각합니다.
+![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Junu's+Profile)
 
 ---
 
-## 🧑‍💼 Profile
+</div>
 
-- **Birth**: 1989년 02월 20일 출생  
-- **Education**:
-  - 방송통신대학교 컴퓨터과학과 재학 중 (2024.03 ~ )
-  - 송원대학교 호텔조리학과 졸업 (2011.03 ~ 2013.02)
+## 🛠 Tech Stack
+
+### **Main Skills**
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
+### **Familiar With**
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</div>
 
 ---
 
-## 📬 Contact
-
-- **Email**: [menstua@naver.com](mailto:menstua@naver.com)  
+## 📬 Contact Me
+- **Email**: [menstua@naver.com](mailto:menstua@naver.com)
 - **Phone**: 010-6491-6909  
 
 ---
 
-## 🛠 Skills
+## 📊 GitHub Stats
+<div align="center">
 
-**Back-End**:  
-- Java, JavaScript, JSP, Thymeleaf, Spring Framework, Spring Boot, MyBatis, Spring Data JPA  
-- Node.js, Express, Nest.js  
-- Python, FastAPI  
+![Junu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junu3148&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junu3148&layout=compact&theme=radical)
 
-**Database**:  
-- Oracle, MySQL, PostgreSQL, MongoDB, Redis  
-
-**Build and Deployment**:  
-- Apache Tomcat 9.0, Maven, Gradle, GitHub, AWS EC2, Docker, Postman  
+</div>
 
 ---
 
-## ✍ Blog
-
-- [Navis Blog](https://navis.tistory.com/)
-
----
-
-## 🏆 Certificates
-
-- SQL 개발자 - SQLD (2023.07.07) - 이베이스  
+## ✍ Blog & Portfolio
+- [📚 Navis Blog](https://navis.tistory.com/)  
+- [💼 GitHub Portfolio](https://github.com/junu3148)
 
 ---
 
-## 📂 GitHub
+<div align="center">
 
-- [junu3148 - GitHub Overview](https://github.com/junu3148)
+### "효율을 높이고 개선하려고 끊임없이 생각합니다."
+
+</div>
