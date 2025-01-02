@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to Yang Junu's GitHub Profile  
+# Welcome to Yang Junu's GitHub Profile  
 ### **Back-End Developer**
 
 ---
@@ -17,7 +17,7 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - **Birth**: February 20, 1989  
 - **Education**:
@@ -26,14 +26,14 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 - **Email**: [menstua@naver.com](mailto:menstua@naver.com)  
 - **Phone**: 010-6491-6909  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Programming Languages**
 <div>
@@ -85,14 +85,15 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 ---
 
-## ✍ Blog & Portfolio
+## Blog & Portfolio
 
-- 📚 [Navis Blog](https://navis.tistory.com/)  
-- 📝 [Notion Portfolio](https://www.notion.so/Kyle-Ntion-d32471fa51c540cbafb30cc8824c0129)
+- [Navis Blog](https://navis.tistory.com/)
+- [KylePortfolio](https://www.kyleportfolio.site/)  
+- [Notion](https://www.notion.so/Kyle-Ntion-d32471fa51c540cbafb30cc8824c0129)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 ![Junu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junu3148&show_icons=true&theme=radical)  
