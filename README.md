@@ -34,6 +34,8 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ### **Programming Languages**
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
@@ -41,21 +43,18 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 
-### **Frameworks & Libraries**
+### **Back-End Technologies**
 <div>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring-data-jpa&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=oauth&logoColor=white" />
-</div>
-
-### **Back-End Technologies**
-<div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" />
 </div>
 
 ### **Databases**
@@ -80,10 +79,10 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 ### **Web Servers & Cloud**
 <div>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </div>
+
 
 ---
 
