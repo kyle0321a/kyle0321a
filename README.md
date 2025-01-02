@@ -1,14 +1,10 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yang%20Junu&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kyle%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=62"/>
 </p>
 
 <div align="center">
     
 ### **Back-End Developer**
-
-<br>
-
----
 
 <br>
 
