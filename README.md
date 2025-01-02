@@ -34,8 +34,6 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### **Programming Languages**
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
@@ -79,10 +77,17 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 ### **Web Servers & Cloud**
 <div>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </div>
 
+---
+
+## ✍ Blog & Portfolio
+
+- 📚 [Navis Blog](https://navis.tistory.com/)  
+- 📝 [Notion Portfolio](https://www.notion.so/Kyle-Ntion-d32471fa51c540cbafb30cc8824c0129)
 
 ---
 
