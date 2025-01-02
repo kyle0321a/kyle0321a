@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/7f6117e8-f560-4f76-9a78-c55616f53369" alt="kyle" width="200" height="200" style="border-radius: 50%;" />
-
-<br>
-
 ---
 
 <br>
