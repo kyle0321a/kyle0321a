@@ -113,7 +113,7 @@ I excel at planning and executing tasks, solving problems, and constantly thinki
 ## Contact Me
 
 **Email**: [menstua@naver.com](mailto:menstua@naver.com)  
-**Phone**: 010-6491-6909  
+**Phone**: 010-5086-7705  
 
 <br>
 
